@@ -24,7 +24,7 @@ h1 {
   color: #ffffff;
 }
 .slick-dots li.slick-active button:before {
-  color: #a6dcef;
+  color: #ffffff;
 }
 .slick-slide {
   outline: none;
@@ -39,4 +39,10 @@ h1 {
 }
 .slick-arrow:hover {
   background-color: #383e56;
+}
+.slick-prev {
+  left: -46px;
+}
+.slick-next {
+  right: -50px;
 }
